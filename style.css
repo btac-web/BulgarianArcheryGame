@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #87CEEB; /* Синьо небе */
+}
+
+canvas {
+    border: 1px solid #000;
+    background: #f0f0f0; /* Фон на играта */
+}
+
+.hud {
+    margin: 10px;
+    font-size: 20px;
+}
